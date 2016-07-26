@@ -4,7 +4,7 @@
 
     <div class="jumbotron">
         <h1>ASP.NET</h1>
-        <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
+        <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript. as</p>
         <p class="lead">
             <asp:Image ID="Image1" runat="server" ImageUrl="https://images.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.M91d77da9beeeef8beafcf2d7dcc8090aH2%26pid%3D15.1&amp;f=1" />
         </p>
