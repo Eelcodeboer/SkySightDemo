@@ -209,9 +209,8 @@
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="Account\Web.config" />
-    <Content Include="ApplicationInsights.config">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
+    <None Include="Properties\PublishProfiles\demo - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\demo - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\Testme - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\Testme - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
